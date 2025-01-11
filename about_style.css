@@ -39,6 +39,24 @@ blockquote cite {
   margin-top: 2px;
 }
 
+footer {
+  position: absolute;
+  width: 100%;
+  padding: 40px 0;
+  background-color: #EFEEF6;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  text-align: center;     
+}
+
+.mycontainer {
+  display: flex;
+  justify-content: center; 
+  gap: 20px;              
+}
+
+
 p {
   margin: 15px 0;
 }
